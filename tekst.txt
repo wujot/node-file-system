@@ -1,0 +1,6 @@
+List of directory items:
+cat.jpg
+index.js
+package-lock.json
+package.json
+node_modules
